@@ -17,26 +17,14 @@
     font-weight: 400;
     line-height: 20px;
 }
-.style_External_630_52 {
-    position: relative;
-}
-.style_External_630_256 {
-    position: relative;
-}
-.style_External_630_34 {
-    position: relative;
-}
-.style_External_630_27 {
-    position: relative;
-}
 .paragraph_style {
     color: rgb(88, 77, 77);
-    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
     line-height: 20px;
     margin-bottom: 0px;
@@ -76,7 +64,25 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_630_32 {
+.style_External_630_354 {
+    position: relative;
+}
+.style_External_630_201 {
+    position: relative;
+}
+.style_External_630_88 {
+    position: relative;
+}
+.style_External_630_109 {
+    position: relative;
+}
+.style_External_630_211 {
+    position: relative;
+}
+.style_External_630_457 {
+    position: relative;
+}
+.style_External_630_129 {
     position: relative;
 }
 .style_SkipStroke_2 {
@@ -91,9 +97,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_630_201 {
-    position: relative;
-}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
@@ -102,28 +105,40 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_630_28 {
+.style_External_630_170 {
     position: relative;
 }
-.style_External_630_170 {
+.style_External_630_32 {
+    position: relative;
+}
+.style_External_630_34 {
+    position: relative;
+}
+.style_External_630_27 {
     position: relative;
 }
 .style_External_630_252 {
     position: relative;
 }
-.style_External_630_109 {
+.style_External_630_37 {
     position: relative;
 }
-.style_External_630_95 {
-    position: relative;
-}
-.style_External_630_436 {
+.style_External_630_41 {
     position: relative;
 }
 .style_External_630_50 {
     position: relative;
 }
-.style_External_630_41 {
+.style_External_630_52 {
+    position: relative;
+}
+.style_External_630_28 {
+    position: relative;
+}
+.style_External_630_53 {
+    position: relative;
+}
+.style_External_630_48 {
     position: relative;
 }
 .Body {
@@ -192,49 +207,64 @@
     text-indent: 0px;
     text-transform: none;
 }
-.Normal {
-    padding: 4px;
-}
-.Normal_External_630_201 {
-    position: relative;
-}
-.Normal_External_630_32 {
-    position: relative;
-}
-.Normal_External_630_28 {
-    position: relative;
-}
-.Normal_External_630_34 {
-    position: relative;
-}
-.Normal_External_630_436 {
-    position: relative;
-}
-.Normal_External_630_95 {
-    position: relative;
-}
 .Normal_External_630_50 {
-    position: relative;
-}
-.Normal_External_630_41 {
-    position: relative;
-}
-.Normal_External_630_52 {
     position: relative;
 }
 .Normal_External_630_109 {
     position: relative;
 }
+.Normal_External_630_211 {
+    position: relative;
+}
+.Normal_External_630_53 {
+    position: relative;
+}
+.Normal_External_630_52 {
+    position: relative;
+}
+.Normal_External_630_129 {
+    position: relative;
+}
+.Normal_External_630_88 {
+    position: relative;
+}
+.Normal_External_630_201 {
+    position: relative;
+}
+.Normal_External_630_170 {
+    position: relative;
+}
 .Normal_External_630_252 {
+    position: relative;
+}
+.Normal_External_630_41 {
+    position: relative;
+}
+.Normal_External_630_32 {
+    position: relative;
+}
+.Normal_External_630_34 {
+    position: relative;
+}
+.Normal_External_630_48 {
+    position: relative;
+}
+.Normal_External_630_354 {
     position: relative;
 }
 .Normal_External_630_27 {
     position: relative;
 }
-.Normal_External_630_256 {
+.Normal_External_630_37 {
     position: relative;
 }
-.Normal_External_630_170 {
+.Normal_External_630_28 {
+    position: relative;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_630_457 {
     position: relative;
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
@@ -253,14 +283,14 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default {
-    padding: 4px;
+.graphic_textbox_layout_style_default_External_630_190 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_630_190 {
-    position: relative;
+.graphic_textbox_layout_style_default {
+    padding: 4px;
 }
 .graphic_textbox_layout_style_default_External_92_92 {
     position: relative;
