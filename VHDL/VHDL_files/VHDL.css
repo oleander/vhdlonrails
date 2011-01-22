@@ -70,9 +70,6 @@
 .style_External_630_201 {
     position: relative;
 }
-.style_External_630_88 {
-    position: relative;
-}
 .style_External_630_109 {
     position: relative;
 }
@@ -225,9 +222,6 @@
 .Normal_External_630_129 {
     position: relative;
 }
-.Normal_External_630_88 {
-    position: relative;
-}
 .Normal_External_630_201 {
     position: relative;
 }
@@ -370,4 +364,19 @@ div.paragraph {
 }
 li.full-width {
     width: 100;
+}
+
+.ribbon {
+  background-color: #a00;
+  overflow: hidden;
+}
+.ribbon a {
+  border: 1px solid #faa;
+  color: #fff;
+  display: block;
+  font: bold 81.25% 'Helvetiva Neue', Helvetica, Arial, sans-serif;
+  margin: 0.05em 0;
+  padding: 0.5em 3.5em;
+  text-align: center;
+  text-decoration: none;
 }
